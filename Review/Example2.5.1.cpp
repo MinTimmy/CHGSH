@@ -1,4 +1,4 @@
-//constant variable 
+//2.5.1«Å§i±`¼Æ constant variable 
 #include<iostream>
 
 using namespace std;

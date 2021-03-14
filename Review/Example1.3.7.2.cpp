@@ -1,4 +1,4 @@
-//std::cout
+//1.3.4 使用名稱空間std
 #include<iostream>
 
 int main()
