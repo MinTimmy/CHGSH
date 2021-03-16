@@ -1,4 +1,4 @@
-//2.5.1宣告常數 constant variable 
+// 2.5.1宣告常數 constant variable 
 #include<iostream>
 
 using namespace std;

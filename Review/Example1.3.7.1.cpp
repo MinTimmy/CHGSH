@@ -1,4 +1,4 @@
-//1.3.1 程式的撰寫 cout, endl
+// 1.3.1 程式的撰寫 cout, endl
 #include<iostream>
 
 using namespace std;

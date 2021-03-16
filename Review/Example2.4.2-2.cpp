@@ -1,4 +1,4 @@
-//範例2.2.4.2 transfer lowercase to uppercase 
+// 範例2.2.4.2 transfer lowercase to uppercase 小寫轉成大寫 
 #include<iostream>
 
 using namespace std;

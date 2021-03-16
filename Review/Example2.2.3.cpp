@@ -9,11 +9,16 @@ int main()
 	int a = 100;
 	cout << a << endl;
 	
-	char b = 'A';
-	cout << b << endl;
-	
     short c = 32768;
     cout << c << endl;
 
     return 0;
 }
+
+
+
+
+
+
+//char b = 'A';
+//cout << b << endl;
